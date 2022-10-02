@@ -1,0 +1,15 @@
+body{
+    background-color: #021f3f;
+    color: #18191c;
+    padding: 90px 0;
+}
+
+div {
+    padding: 1%;
+    width:500px;
+    text-align: center;
+    border:solid 1px;
+    background-color: rgb(74, 190, 136);
+    margin: 200px auto;
+    box-shadow: 10px 10px 10px 1px black;
+}
